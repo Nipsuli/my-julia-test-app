@@ -31,7 +31,7 @@ Activate `Pkg` and the project env
 ```
 shell> julia
 julia> ]
-(1.0) pkg> activate .
+(v1.0) pkg> activate .
 (my-julia-test-app) pkg> *run management commands here*
 ```
 
