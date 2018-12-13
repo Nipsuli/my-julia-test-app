@@ -5,8 +5,8 @@ Just testing how to build Julia app. And other Julia related testing.
 Things to test:
 
 - [ ] test watcher
-  - [ ] get it working
-  - [ ] faster watcher (use `@async` and separate watchers for /src and /test)
+  - [x] get it working
+  - [x] faster watcher (use `@async` and separate watchers for /src and /test)
   - [ ] autoload and watch files
 
 - [ ] creating rest api
