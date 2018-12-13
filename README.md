@@ -3,13 +3,16 @@
 Just testing how to build Julia app. And other Julia related testing.
 
 Things to test:
+
 [] test watcher
   [x] get it working
   [x] faster watcher (use `@async` and separate watchers for /src and /test)
   [] autoload and watch files
+
 [] creating rest api
   [] simple version
   [] auth tokens stuff
+
 [] compiling to single binary
 
 ## Tests
