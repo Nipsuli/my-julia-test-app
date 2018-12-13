@@ -1,6 +1,6 @@
 # my-julia-test-app
 
-Just testing how to build Julia app. And other Julia related testing.
+Just testing how to build Julia app. And other Julia related testing and personal notes and tips.
 
 Things to test:
 
