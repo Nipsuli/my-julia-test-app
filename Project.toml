@@ -1,4 +1,6 @@
 [deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON2 = "2535ab7d-5cd8-5a07-80ac-9b1792aadce3"
 Mux = "a975b10e-0019-58db-a62f-e48ff68538c9"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 

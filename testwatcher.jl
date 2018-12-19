@@ -1,12 +1,15 @@
 using Revise
 using FileWatching
 
-# collect all file paths under ./scr
+# collect all file paths under ./scr and ./test
 # TODO: generate these
 # Revise.track("./src/MyTestApp.jl")
 Revise.includet("./src/MyTestApp.jl")
 Revise.includet("./src/functions.jl")
-# this will run tests
+
+Revise.includet("./test/test_functions.jl")
+
+# this will also run tests the first time
 Revise.includet("./test/runtests.jl")
 
 

@@ -1,6 +1,6 @@
 module Functions
 
-export f
+export f, add
 
 f() = π
 
